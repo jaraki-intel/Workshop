@@ -1,3 +1,3 @@
 # Test markdown
-Test
+Tests that merge conflict here
 ### Tests
